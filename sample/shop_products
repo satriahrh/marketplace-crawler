@@ -1,0 +1,3535 @@
+[{
+    "data": {
+        "GetShopProduct": {
+            "status": "",
+            "errors": "",
+            "links": {
+                "prev": "",
+                "next": "https://ace.tokopedia.com/v1/web-service/shop/get_shop_product?etalase=etalase\u0026order_by=8\u0026page=2\u0026per_page=80\u0026shop_id=2925242",
+                "__typename": "ShopProductListLink"
+            },
+            "data": [{
+                "name": "FLUFFY Baju Pendek Bayi Abu (Isi 3Pcs) Bds",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-pendek-bayi-abu-isi-3pcs-bds-3-6-bulan",
+                "product_id": "413340475",
+                "price": {
+                    "text_idr": "Rp 67.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/13/26785449/26785449_a6724948-2ac6-49a1-9836-51645154e873_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/13/26785449/26785449_a6724948-2ac6-49a1-9836-51645154e873_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/13/26785449/26785449_a6724948-2ac6-49a1-9836-51645154e873_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 29,
+                    "rating": 99,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Celana Pendek Bayi Abu (Isi 3Pcs) CDS ABU S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-celana-pendek-bayi-abu-isi-3pcs-cds-abu-s-m-l-3-6-bulan",
+                "product_id": "377112968",
+                "price": {
+                    "text_idr": "Rp 52.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/11/26785449/26785449_7a8e635d-ddfb-4318-8819-024a3e08af7c_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/11/26785449/26785449_7a8e635d-ddfb-4318-8819-024a3e08af7c_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/11/26785449/26785449_7a8e635d-ddfb-4318-8819-024a3e08af7c_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 28,
+                    "rating": 99,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU PANJANG BAYI FLUFFY (Isi 4Pcs) BJAN SALUR NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-panjang-bayi-fluffy-isi-4pcs-bjan-salur-newborn",
+                "product_id": "272869968",
+                "price": {
+                    "text_idr": "Rp 70.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_3118918b-0e87-4a29-8b97-1a82ed1353a8_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_3118918b-0e87-4a29-8b97-1a82ed1353a8_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_3118918b-0e87-4a29-8b97-1a82ed1353a8_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 27,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BEDONG BAYI FLUFFY ( Isi 2Pcs ) - BDG - PUTIH POLOS NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/bedong-bayi-fluffy-isi-2pcs-bdg-putih-polos-newborn-list-boy-9ea5",
+                "product_id": "318326036",
+                "price": {
+                    "text_idr": "Rp 97.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/11/23/26785449/26785449_56dd20b0-c3a9-4b21-a987-593526e0aaf5_2048_1360.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/11/23/26785449/26785449_56dd20b0-c3a9-4b21-a987-593526e0aaf5_2048_1360.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/11/23/26785449/26785449_56dd20b0-c3a9-4b21-a987-593526e0aaf5_2048_1360.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 20,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Oblong Pendek (Isi 3Pcs) Odsb Abu S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-oblong-pendek-isi-3pcs-odsb-abu-s-m-l-6-9-bulan",
+                "product_id": "409696068",
+                "price": {
+                    "text_idr": "Rp 63.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/13/26785449/26785449_8d2b6ef6-d30a-4c5f-899b-732b701c7bef_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/13/26785449/26785449_8d2b6ef6-d30a-4c5f-899b-732b701c7bef_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/13/26785449/26785449_8d2b6ef6-d30a-4c5f-899b-732b701c7bef_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 21,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "POPOK BAYI PUTIH HALUS FLUFFY ( Isi 4Pcs ) PBPT-PTH",
+                "product_url": "https://www.tokopedia.com/fluffy/popok-bayi-putih-halus-fluffy-isi-4pcs-pbpt-pth-d893",
+                "product_id": "274012952",
+                "price": {
+                    "text_idr": "Rp 55.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/4/2/26785449/26785449_4ea41ed2-d7a8-495b-9286-b72a022da51f_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/4/2/26785449/26785449_4ea41ed2-d7a8-495b-9286-b72a022da51f_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/4/2/26785449/26785449_4ea41ed2-d7a8-495b-9286-b72a022da51f_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 7,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BEDONG BAYI FLUFFY ( Isi 2Pcs ) - BDG - WARNA NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/bedong-bayi-fluffy-isi-2pcs-bdg-warna-newborn-babyboy",
+                "product_id": "318324957",
+                "price": {
+                    "text_idr": "Rp 97.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_dc85aef0-6a40-43bd-b7ce-58edfa1a63a1_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/30/26785449/26785449_dc85aef0-6a40-43bd-b7ce-58edfa1a63a1_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_dc85aef0-6a40-43bd-b7ce-58edfa1a63a1_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 24,
+                    "rating": 99,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "SINGLET ANAK FLUFFY S-M-L PUTIH [SGS-PTH] ISI 4 PCS",
+                "product_url": "https://www.tokopedia.com/fluffy/singlet-anak-fluffy-s-m-l-putih-sgs-pth-isi-4-pcs-9-12-bulan-e5dc",
+                "product_id": "286863017",
+                "price": {
+                    "text_idr": "Rp 59.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/19/26785449/26785449_61352aea-f669-4bb7-a6ae-aa582adfe7e8_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/19/26785449/26785449_61352aea-f669-4bb7-a6ae-aa582adfe7e8_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/19/26785449/26785449_61352aea-f669-4bb7-a6ae-aa582adfe7e8_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 14,
+                    "rating": 95,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA 3/4 WARNA FLUFFY C3S-WRN S/M/L ( Isi 4Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-3-4-warna-fluffy-c3s-wrn-s-m-l-isi-4pcs-3-6-bulan",
+                "product_id": "272314137",
+                "price": {
+                    "text_idr": "Rp 72.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_b85020a2-cb9c-467d-a639-4790e83e22cf_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_b85020a2-cb9c-467d-a639-4790e83e22cf_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_b85020a2-cb9c-467d-a639-4790e83e22cf_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 24,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "POPOK BAYI TALI FLUFFY (Isi 4Pcs ) PBPT SALUR",
+                "product_url": "https://www.tokopedia.com/fluffy/popok-bayi-tali-fluffy-isi-4pcs-pbpt-salur",
+                "product_id": "277687461",
+                "price": {
+                    "text_idr": "Rp 57.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/4/10/26785449/26785449_0e8b1ced-a70d-4757-ac62-209cc41c8f49_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/4/10/26785449/26785449_0e8b1ced-a70d-4757-ac62-209cc41c8f49_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/4/10/26785449/26785449_0e8b1ced-a70d-4757-ac62-209cc41c8f49_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 16,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU BAYI PENDEK FLUFFY (Isi 4Pcs) BDAN PUTIH NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-bayi-pendek-fluffy-isi-4pcs-bdan-putih-newborn",
+                "product_id": "272812875",
+                "price": {
+                    "text_idr": "Rp 59.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_5e03567f-5c2b-4db6-b7d5-59f07d0fd592_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_5e03567f-5c2b-4db6-b7d5-59f07d0fd592_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_5e03567f-5c2b-4db6-b7d5-59f07d0fd592_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 17,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU BAYI PENDEK FLUFFY (Isi 4Pcs) BDAN WARNA NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-bayi-pendek-fluffy-isi-4pcs-bdan-warna-newborn",
+                "product_id": "272814090",
+                "price": {
+                    "text_idr": "Rp 59.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_2ebbfdd3-77c5-4530-a52d-2d38cb1c1155_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_2ebbfdd3-77c5-4530-a52d-2d38cb1c1155_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_2ebbfdd3-77c5-4530-a52d-2d38cb1c1155_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 22,
+                    "rating": 99,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU PANJANG BAYI FLUFFY (ISI 4PCS) WARNA BJS-WRN S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-panjang-bayi-fluffy-isi-4pcs-warna-bjs-wrn-s-m-l-6-9-bulan-fea9",
+                "product_id": "272690557",
+                "price": {
+                    "text_idr": "Rp 97.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_2ee718e7-bdfb-4287-b72d-5bebfcfab36a_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_2ee718e7-bdfb-4287-b72d-5bebfcfab36a_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_2ee718e7-bdfb-4287-b72d-5bebfcfab36a_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 17,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Celana Pendek Segitiga (Isi 3Pcs) Cda Abu Newborn",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-celana-pendek-segitiga-isi-3pcs-cda-abu-newborn",
+                "product_id": "409619488",
+                "price": {
+                    "text_idr": "Rp 48.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/2/16/26785449/26785449_3a3acee8-e9ba-4a82-adcc-1ce9ded266f9_2048_2048.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/2/16/26785449/26785449_3a3acee8-e9ba-4a82-adcc-1ce9ded266f9_2048_2048.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/2/16/26785449/26785449_3a3acee8-e9ba-4a82-adcc-1ce9ded266f9_2048_2048.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 14,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Panjang Bis Abu Newborn (Isi 3Pcs) Bjab Abu Nb",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-panjang-bis-abu-newborn-isi-3pcs-bjab-abu-nb",
+                "product_id": "430422233",
+                "price": {
+                    "text_idr": "Rp 54.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/11/26785449/26785449_3f22cc7e-e2f5-445a-9a50-4219f1dacc7f_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/11/26785449/26785449_3f22cc7e-e2f5-445a-9a50-4219f1dacc7f_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/11/26785449/26785449_3f22cc7e-e2f5-445a-9a50-4219f1dacc7f_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK MOTIF FLUFFY ODSP-MTF ( Isi 4 Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-motif-fluffy-odsp-mtf-isi-4-pcs-6-9-bulan",
+                "product_id": "272424996",
+                "price": {
+                    "text_idr": "Rp 90.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_c72221ae-3cc3-407f-adb5-8b3993e8e40a_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/2/26785449/26785449_c72221ae-3cc3-407f-adb5-8b3993e8e40a_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_c72221ae-3cc3-407f-adb5-8b3993e8e40a_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 18,
+                    "rating": 97,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Bayi Oblong Pendek (Isi 3Pcs) ODS KKI S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-bayi-oblong-pendek-isi-3pcs-ods-kki-s-m-l-9-12-bulan",
+                "product_id": "604743289",
+                "price": {
+                    "text_idr": "Rp 63.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_5bc62998-7c9d-4df2-a643-7a14e7d6e724_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/8/26785449/26785449_5bc62998-7c9d-4df2-a643-7a14e7d6e724_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_5bc62998-7c9d-4df2-a643-7a14e7d6e724_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 20,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA TUTUP KAKI PUTIH FLUFFY CKS-PTH S/M/L (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-tutup-kaki-putih-fluffy-cks-pth-s-m-l-isi-4pcs-9-12-bulan",
+                "product_id": "272117789",
+                "price": {
+                    "text_idr": "Rp 94.500",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_f908d551-9f43-4473-815c-32c309fe9c39_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_f908d551-9f43-4473-815c-32c309fe9c39_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_f908d551-9f43-4473-815c-32c309fe9c39_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "10",
+                    "original_price_fmt": "Rp 105.000",
+                    "start_date": "2020-06-02T11:54:44Z",
+                    "end_date": "2020-06-30T00:00:00Z",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 15,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PANJNG RIB SALUR FLUFFY CJSR-SLR S/M/L ( Isi 4 Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-panjng-rib-salur-fluffy-cjsr-slr-s-m-l-isi-4-pcs-3-6-bulan",
+                "product_id": "272132040",
+                "price": {
+                    "text_idr": "Rp 105.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_8bdf732d-85fd-4ce3-9c9c-45ba9af5e885_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_8bdf732d-85fd-4ce3-9c9c-45ba9af5e885_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_8bdf732d-85fd-4ce3-9c9c-45ba9af5e885_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 12,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "SINGLET ANAK FLUFFY 1-3 THN WARNA [SGX-WRN] ISI 4 PCS",
+                "product_url": "https://www.tokopedia.com/fluffy/singlet-anak-fluffy-1-3-thn-warna-sgx-wrn-isi-4-pcs-2-4-tahun",
+                "product_id": "269622678",
+                "price": {
+                    "text_idr": "Rp 69.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/19/26785449/26785449_dae2e4ef-0787-4678-b56b-f399c9754316_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/19/26785449/26785449_dae2e4ef-0787-4678-b56b-f399c9754316_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/19/26785449/26785449_dae2e4ef-0787-4678-b56b-f399c9754316_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "Fluffy Baju Pendek Neci Newborn Abu (Isi 3Pcs) Bdan Abu",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-pendek-neci-newborn-abu-isi-3pcs-bdan-abu",
+                "product_id": "407397180",
+                "price": {
+                    "text_idr": "Rp 46.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/11/26785449/26785449_7795af78-36b4-40ea-8d91-b610c830a0c5_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/11/26785449/26785449_7795af78-36b4-40ea-8d91-b610c830a0c5_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/11/26785449/26785449_7795af78-36b4-40ea-8d91-b610c830a0c5_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 13,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Singlet Anak Abu (Isi 3Pcs) KKX ABU Size 1/2/3",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-singlet-anak-abu-isi-3pcs-kkx-abu-size-1-2-3-2-4-tahun",
+                "product_id": "377531682",
+                "price": {
+                    "text_idr": "Rp 70.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/18/26785449/26785449_c771c182-798d-4599-ac01-e674e2108bbb_1182_1182.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/12/18/26785449/26785449_c771c182-798d-4599-ac01-e674e2108bbb_1182_1182.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/18/26785449/26785449_c771c182-798d-4599-ac01-e674e2108bbb_1182_1182.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 15,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA 3/4 BIS MOTIF FLUFFY 1/2/3 C3XB-MTF ( Isi 4 Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-3-4-bis-motif-fluffy-1-2-3-c3xb-mtf-isi-4-pcs-12-18-bulan",
+                "product_id": "271197708",
+                "price": {
+                    "text_idr": "Rp 87.300",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/23/26785449/26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "10",
+                    "original_price_fmt": "Rp 97.000",
+                    "start_date": "2020-06-02T12:11:04Z",
+                    "end_date": "2020-06-30T00:00:00Z",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 15,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "TOPI BAYI KUNCUNG ( ISI 2 ) MOTIF NEWBORN FLUFFY [TPK-MTF]",
+                "product_url": "https://www.tokopedia.com/fluffy/topi-bayi-kuncung-isi-2-motif-newborn-fluffy-tpk-mtf-baby-girl",
+                "product_id": "318460249",
+                "price": {
+                    "text_idr": "Rp 30.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_f1a4256e-9d11-46bd-848c-ddaf9b81a5b1_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/2/26785449/26785449_f1a4256e-9d11-46bd-848c-ddaf9b81a5b1_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_f1a4256e-9d11-46bd-848c-ddaf9b81a5b1_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 16,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "POPOK KAIN BAYI FLUFFY (Isi 4Pcs ) PBPT WARNA",
+                "product_url": "https://www.tokopedia.com/fluffy/popok-kain-bayi-fluffy-isi-4pcs-pbpt-warna",
+                "product_id": "277680056",
+                "price": {
+                    "text_idr": "Rp 55.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/4/10/26785449/26785449_93e29362-4377-4789-bead-77782bf16fea_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/4/10/26785449/26785449_93e29362-4377-4789-bead-77782bf16fea_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/4/10/26785449/26785449_93e29362-4377-4789-bead-77782bf16fea_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 13,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Celana 3/4 Bis (Isi 3Pcs) C3sb KKI S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-celana-3-4-bis-isi-3pcs-c3sb-kki-s-m-l-6-9-bulan",
+                "product_id": "604733058",
+                "price": {
+                    "text_idr": "Rp 56.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_3c37f516-c67f-402b-86da-ae7421cc3233_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/8/26785449/26785449_3c37f516-c67f-402b-86da-ae7421cc3233_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_3c37f516-c67f-402b-86da-ae7421cc3233_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 13,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Oblong Panjang Rib Anak Abu (Isi 3Pcs) OJX ABU 1/2/3",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-oblong-panjang-rib-anak-abu-isi-3pcs-ojx-abu-1-2-3-2-4-tahun",
+                "product_id": "377533218",
+                "price": {
+                    "text_idr": "Rp 84.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/3/20/26785449/26785449_88a730ee-1d75-4df6-9bee-578bbebca8da_800_800.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/3/20/26785449/26785449_88a730ee-1d75-4df6-9bee-578bbebca8da_800_800.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/3/20/26785449/26785449_88a730ee-1d75-4df6-9bee-578bbebca8da_800_800.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 16,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PANJANG BIS WARNA FLUFFY CJSB-WRN S/M/L ( Isi 4 Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-panjang-bis-warna-fluffy-cjsb-wrn-s-m-l-isi-4-pcs-6-9-bulan",
+                "product_id": "272124233",
+                "price": {
+                    "text_idr": "Rp 95.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_4a311f90-30ca-476a-8e00-d717bfb12d29_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_4a311f90-30ca-476a-8e00-d717bfb12d29_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_4a311f90-30ca-476a-8e00-d717bfb12d29_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 12,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Bayi Pendek Abu (Isi 3Pcs) Bdab Abu Newborn",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-bayi-pendek-abu-isi-3pcs-bdab-abu-newborn",
+                "product_id": "407411684",
+                "price": {
+                    "text_idr": "Rp 50.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/13/26785449/26785449_3bf23fdc-c03d-4a6c-a370-dbc81ce47bc0_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/13/26785449/26785449_3bf23fdc-c03d-4a6c-a370-dbc81ce47bc0_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/3/13/26785449/26785449_3bf23fdc-c03d-4a6c-a370-dbc81ce47bc0_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 15,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU PENDEK ANAK MOTIF FLUFFY 1/2/3 BDX-MTF (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-pendek-anak-motif-fluffy-1-2-3-bdx-mtf-isi-4pcs-18-24-bulan",
+                "product_id": "271252038",
+                "price": {
+                    "text_idr": "Rp 120.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_86b09b38-7acb-44fa-be9e-cc62a4397d57_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/2/26785449/26785449_86b09b38-7acb-44fa-be9e-cc62a4397d57_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_86b09b38-7acb-44fa-be9e-cc62a4397d57_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Bayi Pendek Bis (Isi 3Pcs) Bdab Kki Newborn",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-bayi-pendek-bis-isi-3pcs-bdab-kki-newborn",
+                "product_id": "604139276",
+                "price": {
+                    "text_idr": "Rp 50.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/7/26785449/26785449_964b4189-5953-4ddf-88d4-05d722f45b00_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/7/26785449/26785449_964b4189-5953-4ddf-88d4-05d722f45b00_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/7/26785449/26785449_964b4189-5953-4ddf-88d4-05d722f45b00_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK SALUR FLUFFY ODSP-SLR ( Isi 4 Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-salur-fluffy-odsp-slr-isi-4-pcs-6-9-bulan",
+                "product_id": "272425938",
+                "price": {
+                    "text_idr": "Rp 90.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_4f9d5459-499e-4a40-962a-fc63c9ac620f_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_4f9d5459-499e-4a40-962a-fc63c9ac620f_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_4f9d5459-499e-4a40-962a-fc63c9ac620f_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 9,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Celana Pendek Bayi (Isi 3Pcs) CSA ABU NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-celana-pendek-bayi-isi-3pcs-csa-abu-newborn-0-3-bulan",
+                "product_id": "391291737",
+                "price": {
+                    "text_idr": "Rp 45.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/4/14/26785449/26785449_1a595723-ffe4-4791-8828-fae8fab69db1_1280_1280",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/4/14/26785449/26785449_1a595723-ffe4-4791-8828-fae8fab69db1_1280_1280",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2020/4/14/26785449/26785449_1a595723-ffe4-4791-8828-fae8fab69db1_1280_1280",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 8,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU PANJANG BAYI FLUFFY (ISI 4PCS) SALUR BJS-SLR S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-panjang-bayi-fluffy-isi-4pcs-salur-bjs-slr-s-m-l-9-12-bulan",
+                "product_id": "381337599",
+                "price": {
+                    "text_idr": "Rp 105.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/10/9/26785449/26785449_488f1da8-561c-4bfa-af33-5defb343ab9b_2048_1360.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/10/9/26785449/26785449_488f1da8-561c-4bfa-af33-5defb343ab9b_2048_1360.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/10/9/26785449/26785449_488f1da8-561c-4bfa-af33-5defb343ab9b_2048_1360.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 13,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BEDONG BAYI FLUFFY ( Isi 2Pcs ) SALUR - BDG-SLR NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/bedong-bayi-fluffy-isi-2pcs-salur-bdg-slr-newborn-babygirl-ffd0",
+                "product_id": "318080120",
+                "price": {
+                    "text_idr": "Rp 106.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_8a306714-c48c-4990-a42b-c74b22f00464_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/30/26785449/26785449_8a306714-c48c-4990-a42b-c74b22f00464_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_8a306714-c48c-4990-a42b-c74b22f00464_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 94,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Panjang Bis (Isi 3Pcs) Bjab Kki Newborn",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-panjang-bis-isi-3pcs-bjab-kki-newborn",
+                "product_id": "604140740",
+                "price": {
+                    "text_idr": "Rp 54.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/7/26785449/26785449_a2265e9f-9314-4d8f-ae89-2c83e9d1892f_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/7/26785449/26785449_a2265e9f-9314-4d8f-ae89-2c83e9d1892f_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/7/26785449/26785449_a2265e9f-9314-4d8f-ae89-2c83e9d1892f_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 12,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Oblong Panjang Rib Anak (Isi 3Pcs) OJX KKI 1/2/3",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-oblong-panjang-rib-anak-isi-3pcs-ojx-kki-1-2-3-2-4-tahun",
+                "product_id": "604748796",
+                "price": {
+                    "text_idr": "Rp 84.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_88b161a7-d9fc-454f-974b-8f838c6d1ec4_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/8/26785449/26785449_88b161a7-d9fc-454f-974b-8f838c6d1ec4_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_88b161a7-d9fc-454f-974b-8f838c6d1ec4_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 14,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PENDEK BAYI MOTIF FLUFFY CDS-MTF S/M/L ( Isi 4Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-pendek-bayi-motif-fluffy-cds-mtf-s-m-l-isi-4pcs-3-6-bulan",
+                "product_id": "272320426",
+                "price": {
+                    "text_idr": "Rp 74.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_b3ae201a-9a11-43d7-b530-08d1b3b79fac_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_b3ae201a-9a11-43d7-b530-08d1b3b79fac_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_b3ae201a-9a11-43d7-b530-08d1b3b79fac_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 15,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK BIS WARNA FLUFFY ODXB-WRN (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-bis-warna-fluffy-odxb-wrn-isi-4pcs-12-18-bulan",
+                "product_id": "272016337",
+                "price": {
+                    "text_idr": "Rp 101.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_306e91a5-1218-4eb9-b58d-e0c0fef74b17_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_306e91a5-1218-4eb9-b58d-e0c0fef74b17_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_306e91a5-1218-4eb9-b58d-e0c0fef74b17_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 92,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PENDEK BAYI FLUFFY (Isi 4Pcs) CSS WARNA S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-pendek-bayi-fluffy-isi-4pcs-css-warna-s-m-l-3-6-bulan-92fa",
+                "product_id": "272906736",
+                "price": {
+                    "text_idr": "Rp 67.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_01f3ddf8-6f62-4f88-bf76-1166c2cce4f9_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_01f3ddf8-6f62-4f88-bf76-1166c2cce4f9_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_01f3ddf8-6f62-4f88-bf76-1166c2cce4f9_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 12,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Bedong Bayi (Isi 2Pcs) BDG ABU NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-bedong-bayi-isi-2pcs-bdg-abu-newborn",
+                "product_id": "613078466",
+                "price": {
+                    "text_idr": "Rp 102.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/20/26785449/26785449_8546c4ca-4ae5-44cd-a024-20fa86612ece_1280_1280",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/20/26785449/26785449_8546c4ca-4ae5-44cd-a024-20fa86612ece_1280_1280",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/20/26785449/26785449_8546c4ca-4ae5-44cd-a024-20fa86612ece_1280_1280",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "Fluffy Baju Pendek Neci (Isi 3Pcs) Bdan Kki Newborn",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-pendek-neci-isi-3pcs-bdan-kki-newborn",
+                "product_id": "603347704",
+                "price": {
+                    "text_idr": "Rp 46.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/6/26785449/26785449_27d16faa-21cf-4f45-bff9-69f5508e2e39_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/6/26785449/26785449_27d16faa-21cf-4f45-bff9-69f5508e2e39_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/6/26785449/26785449_27d16faa-21cf-4f45-bff9-69f5508e2e39_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 5,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PANJANG BIS MOTIF FLUFFY - CJXB-MTF ( ISI 4PCS)",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-panjang-bis-motif-fluffy-cjxb-mtf-isi-4pcs-12-18-bulan",
+                "product_id": "270239916",
+                "price": {
+                    "text_idr": "Rp 126.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/20/26785449/26785449_b4b63881-0303-444c-81ff-42d770f5f00a_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/20/26785449/26785449_b4b63881-0303-444c-81ff-42d770f5f00a_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/20/26785449/26785449_b4b63881-0303-444c-81ff-42d770f5f00a_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "TOPI BAYI EMEN FLUFFY (Isi 2Pcs) - TPE WARNA NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/topi-bayi-emen-fluffy-isi-2pcs-tpe-warna-newborn-baby-girl-5cef",
+                "product_id": "318328041",
+                "price": {
+                    "text_idr": "Rp 29.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_dbcf097f-8761-4bdb-ac5d-b34ac1f4b985_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/30/26785449/26785449_dbcf097f-8761-4bdb-ac5d-b34ac1f4b985_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_dbcf097f-8761-4bdb-ac5d-b34ac1f4b985_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 12,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU KUTUNG SALUR FLUFFY ( Isi 4Pcs ) BKS-SLR",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-kutung-salur-fluffy-isi-4pcs-bks-slr-6-9-bulan",
+                "product_id": "272741101",
+                "price": {
+                    "text_idr": "Rp 84.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_d19d590c-0322-405b-a502-f60fc64282b2_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_d19d590c-0322-405b-a502-f60fc64282b2_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_d19d590c-0322-405b-a502-f60fc64282b2_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "TOPI BAYI EMEN FLUFFY (Isi 2Pcs) - TPE SALUR NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/topi-bayi-emen-fluffy-isi-2pcs-tpe-salur-newborn-baby-girl",
+                "product_id": "318327248",
+                "price": {
+                    "text_idr": "Rp 30.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_53555bbb-82a3-468d-be3d-cb6afffd66d2_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/30/26785449/26785449_53555bbb-82a3-468d-be3d-cb6afffd66d2_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/30/26785449/26785449_53555bbb-82a3-468d-be3d-cb6afffd66d2_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 12,
+                    "rating": 95,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Oblong Panjang Rib (Isi 3Pcs) OJS KKI S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-oblong-panjang-rib-isi-3pcs-ojs-kki-s-m-l-6-9-bulan",
+                "product_id": "604746994",
+                "price": {
+                    "text_idr": "Rp 70.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_c6df5cd7-b23f-484c-8aec-308f9bcbccc5_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/8/26785449/26785449_c6df5cd7-b23f-484c-8aec-308f9bcbccc5_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/8/26785449/26785449_c6df5cd7-b23f-484c-8aec-308f9bcbccc5_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "PROMO-SINGLET BAYI LUAR FLUFFY (ISI 4PCS) MOTIF KKX-MTF 1/2/3",
+                "product_url": "https://www.tokopedia.com/fluffy/promo-singlet-bayi-luar-fluffy-isi-4pcs-motif-kkx-mtf-1-2-3-18-24-bulan",
+                "product_id": "304573509",
+                "price": {
+                    "text_idr": "Rp 101.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/4/26785449/26785449_bbbc1221-80a1-4a03-b8cb-fd95ca468bed_500_500.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/12/4/26785449/26785449_bbbc1221-80a1-4a03-b8cb-fd95ca468bed_500_500.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/4/26785449/26785449_bbbc1221-80a1-4a03-b8cb-fd95ca468bed_500_500.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 14,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PANJANG BIS MOTIF FLUFFY CJSB-MTF S/M/L ( Isi 4 Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-panjang-bis-motif-fluffy-cjsb-mtf-s-m-l-isi-4-pcs-3-6-bulan",
+                "product_id": "272126072",
+                "price": {
+                    "text_idr": "Rp 105.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_91463474-f772-4bc8-aa06-3e77ba01c5c0_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_91463474-f772-4bc8-aa06-3e77ba01c5c0_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_91463474-f772-4bc8-aa06-3e77ba01c5c0_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 8,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK RIB SALUR FLUFFY ODX-SLR (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-rib-salur-fluffy-odx-slr-isi-4pcs-12-18-bulan",
+                "product_id": "272062248",
+                "price": {
+                    "text_idr": "Rp 112.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_9b476eb7-257a-4902-bc10-56d7fcaa1236_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_9b476eb7-257a-4902-bc10-56d7fcaa1236_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_9b476eb7-257a-4902-bc10-56d7fcaa1236_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 9,
+                    "rating": 97,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "SINGLET ANAK FLUFFY S-M-L WARNA [SGS-WRN] ISI 4PCS",
+                "product_url": "https://www.tokopedia.com/fluffy/singlet-anak-fluffy-s-m-l-warna-sgs-wrn-isi-4pcs-3-6-bulan-b195",
+                "product_id": "269627657",
+                "price": {
+                    "text_idr": "Rp 59.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/19/26785449/26785449_d1fc4834-2813-43ae-b779-a57fb3a65f75_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/19/26785449/26785449_d1fc4834-2813-43ae-b779-a57fb3a65f75_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/19/26785449/26785449_d1fc4834-2813-43ae-b779-a57fb3a65f75_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 94,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Jumper Pendek Bayi Motif (Isi 2Pcs) JUMP MTF SML",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-jumper-pendek-bayi-motif-isi-2pcs-jump-mtf-sml-9-12-bulan-baby-girl",
+                "product_id": "578117164",
+                "price": {
+                    "text_idr": "Rp 61.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/19/26785449/26785449_889a18d8-df7b-472b-a3f6-f487a6d37a76_1280_720.png",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/12/19/26785449/26785449_889a18d8-df7b-472b-a3f6-f487a6d37a76_1280_720.png",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/19/26785449/26785449_889a18d8-df7b-472b-a3f6-f487a6d37a76_1280_720.png",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 98,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Baju Anak Lengan Pendek (Isi 3Pcs) BDX ABU 1/2/3",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-baju-anak-lengan-pendek-isi-3pcs-bdx-abu-1-2-3-18-24-bulan",
+                "product_id": "377529088",
+                "price": {
+                    "text_idr": "Rp 82.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/2/25/26785449/26785449_6227a83b-b6b1-433a-8f6e-b9755b4cbfdf_800_800.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/2/25/26785449/26785449_6227a83b-b6b1-433a-8f6e-b9755b4cbfdf_800_800.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/2/25/26785449/26785449_6227a83b-b6b1-433a-8f6e-b9755b4cbfdf_800_800.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 8,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PENDEK BAYI FLUFFY (Isi 4Pcs) CSS MOTIF S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-pendek-bayi-fluffy-isi-4pcs-css-motif-s-m-l-9-12-bulan",
+                "product_id": "318341591",
+                "price": {
+                    "text_idr": "Rp 74.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_94133cf6-fa73-47aa-9066-86ba497e7cc8_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_94133cf6-fa73-47aa-9066-86ba497e7cc8_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_94133cf6-fa73-47aa-9066-86ba497e7cc8_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 9,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PANJANG RIB MOTIF FLUFFY 1/2/3 CJXR-MTF (ISI 4PCS)",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-panjang-rib-motif-fluffy-1-2-3-cjxr-mtf-isi-4pcs-12-18-bulan",
+                "product_id": "270776161",
+                "price": {
+                    "text_idr": "Rp 126.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/22/26785449/26785449_ee4e024c-df60-4e31-acf9-d018b5775b09_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/22/26785449/26785449_ee4e024c-df60-4e31-acf9-d018b5775b09_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/22/26785449/26785449_ee4e024c-df60-4e31-acf9-d018b5775b09_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 4,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PANJANG MOTIF FLUFFY OJSP-MTF ( Isi 4Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-panjang-motif-fluffy-ojsp-mtf-isi-4pcs-9-12-bulan-1",
+                "product_id": "309764335",
+                "price": {
+                    "text_idr": "Rp 100.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/3/20/26785449/26785449_be281d8b-7132-46f3-81fa-24f50ddf5c5b_2048_1360.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/3/20/26785449/26785449_be281d8b-7132-46f3-81fa-24f50ddf5c5b_2048_1360.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/3/20/26785449/26785449_be281d8b-7132-46f3-81fa-24f50ddf5c5b_2048_1360.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU PANJANG KANCING DEPAN SALUR FLUFFY 1/2/3 BJX-SLR (Isi 4 Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-panjang-kancing-depan-salur-fluffy-1-2-3-bjx-slr-isi-4-pcs-18-24-bulan",
+                "product_id": "271235625",
+                "price": {
+                    "text_idr": "Rp 134.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_34d93fc4-77d6-439a-ac6a-45ea0f3cde63_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/23/26785449/26785449_34d93fc4-77d6-439a-ac6a-45ea0f3cde63_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_34d93fc4-77d6-439a-ac6a-45ea0f3cde63_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 9,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK BIS PUTIH ( isi 4 pcs ) ODXB PUTIH size( 1/2/3)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-bis-putih-isi-4-pcs-odxb-putih-size-1-2-3-18-24-bulan",
+                "product_id": "318510113",
+                "price": {
+                    "text_idr": "Rp 101.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/8/14/26785449/26785449_f7845d31-024e-4fb4-9c63-a86d5e1f1d99_700_700.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/8/14/26785449/26785449_f7845d31-024e-4fb4-9c63-a86d5e1f1d99_700_700.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/8/14/26785449/26785449_f7845d31-024e-4fb4-9c63-a86d5e1f1d99_700_700.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 5,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU PENDEK ANAK SALUR FLUFFY 1/2/3 BDX-SLR",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-pendek-anak-salur-fluffy-1-2-3-bdx-slr-2-4-tahun",
+                "product_id": "267980061",
+                "price": {
+                    "text_idr": "Rp 120.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_4b2a7ac5-5864-4fc8-8ab2-3f0930cdb4bb_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/23/26785449/26785449_4b2a7ac5-5864-4fc8-8ab2-3f0930cdb4bb_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_4b2a7ac5-5864-4fc8-8ab2-3f0930cdb4bb_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 8,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU KUTUNG WARNA FLUFFY LIST BIS (ISI 4 pcs) NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-kutung-warna-fluffy-list-bis-isi-4-pcs-newborn-0-3-bulan",
+                "product_id": "319324810",
+                "price": {
+                    "text_idr": "Rp 61.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/8/16/26785449/26785449_f47c797a-f5ac-45cd-bad9-15ff6795afc7_2048_1360.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/8/16/26785449/26785449_f47c797a-f5ac-45cd-bad9-15ff6795afc7_2048_1360.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/8/16/26785449/26785449_f47c797a-f5ac-45cd-bad9-15ff6795afc7_2048_1360.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 8,
+                    "rating": 97,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK RIB PUTIH FLUFFY ODX-PTH (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-rib-putih-fluffy-odx-pth-isi-4pcs-2-4-tahun",
+                "product_id": "267983486",
+                "price": {
+                    "text_idr": "Rp 90.900",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_ad8b19e1-b626-4b9e-94af-43d04d8e5c78_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_ad8b19e1-b626-4b9e-94af-43d04d8e5c78_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_ad8b19e1-b626-4b9e-94af-43d04d8e5c78_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "10",
+                    "original_price_fmt": "Rp 101.000",
+                    "start_date": "2020-06-02T11:57:39Z",
+                    "end_date": "2020-06-30T00:00:00Z",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 11,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PENDEK BAYI FLUFFY (Isi 4Pcs) CDA SALUR NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-pendek-bayi-fluffy-isi-4pcs-cda-salur-newborn-0-3-bulan",
+                "product_id": "318362852",
+                "price": {
+                    "text_idr": "Rp 68.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_4269f87a-85b2-434a-be38-d03c7e60dcb0_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_4269f87a-85b2-434a-be38-d03c7e60dcb0_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_4269f87a-85b2-434a-be38-d03c7e60dcb0_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 9,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA MOMON SALUR FLUFFY CMS-SLR S/M/L  ( isi 4 Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-momon-salur-fluffy-cms-slr-s-m-l-isi-4-pcs-3-6-bulan",
+                "product_id": "272301372",
+                "price": {
+                    "text_idr": "Rp 96.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_c465f126-46be-4364-aca9-d4a6b60a84c8_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_c465f126-46be-4364-aca9-d4a6b60a84c8_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_c465f126-46be-4364-aca9-d4a6b60a84c8_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 9,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PANJANG BIS PUTIH FLUFFY - CJXB-PTH ( ISI 4 PCS )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-panjang-bis-putih-fluffy-cjxb-pth-isi-4-pcs-2-4-tahun",
+                "product_id": "598986623",
+                "price": {
+                    "text_idr": "Rp 112.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/20/26785449/26785449_57e524e8-e406-4f23-91cf-a60fff7dcb44_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/20/26785449/26785449_57e524e8-e406-4f23-91cf-a60fff7dcb44_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/20/26785449/26785449_57e524e8-e406-4f23-91cf-a60fff7dcb44_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 4,
+                    "rating": 90,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "SINGLET BAYI LUAR FLUFFY  (ISI 4PCS)  MOTIF KKS-MTF S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/singlet-bayi-luar-fluffy-isi-4pcs-motif-kks-mtf-s-m-l-3-6-bulan",
+                "product_id": "272637433",
+                "price": {
+                    "text_idr": "Rp 84.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_802a2cce-2b49-4d76-85a9-907935bbccc6_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/2/26785449/26785449_802a2cce-2b49-4d76-85a9-907935bbccc6_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_802a2cce-2b49-4d76-85a9-907935bbccc6_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 6,
+                    "rating": 96,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PANJANG BIS ANAK WARNA FLUFFY OJXB-WRN (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-panjang-bis-anak-warna-fluffy-ojxb-wrn-isi-4pcs-2-4-tahun-9ec3",
+                "product_id": "271274981",
+                "price": {
+                    "text_idr": "Rp 108.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_e0acf9a7-4a0c-4c49-8b23-1b839a9a5c5f_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/2/26785449/26785449_e0acf9a7-4a0c-4c49-8b23-1b839a9a5c5f_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_e0acf9a7-4a0c-4c49-8b23-1b839a9a5c5f_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 7,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "TOPI EMEN MTF NB (Isi 2 Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/topi-emen-mtf-nb-isi-2-pcs-motif-list-girl",
+                "product_id": "318101519",
+                "price": {
+                    "text_idr": "Rp 30.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/7/24/26785449/26785449_fde5d5cf-1fb8-4b58-96fd-eaf4569ed61c_700_700.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/7/24/26785449/26785449_fde5d5cf-1fb8-4b58-96fd-eaf4569ed61c_700_700.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/7/24/26785449/26785449_fde5d5cf-1fb8-4b58-96fd-eaf4569ed61c_700_700.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "FLUFFY Celana Pendek Bayi (Isi 3Pcs) Csa Kki Newborn",
+                "product_url": "https://www.tokopedia.com/fluffy/fluffy-celana-pendek-bayi-isi-3pcs-csa-kki-newborn",
+                "product_id": "603348972",
+                "price": {
+                    "text_idr": "Rp 45.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/6/26785449/26785449_00534854-ec20-4049-9694-e80a69aa371f_2048_2048",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/6/26785449/26785449_00534854-ec20-4049-9694-e80a69aa371f_2048_2048",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2019/11/6/26785449/26785449_00534854-ec20-4049-9694-e80a69aa371f_2048_2048",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 2,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "SINGLET LUAR ANAK FLUFFY WARNA POLOS SIZE1/2/3 (1PACK ISI 4 PCS)",
+                "product_url": "https://www.tokopedia.com/fluffy/singlet-luar-anak-fluffy-warna-polos-size1-2-3-1pack-isi-4-pcs-2-4-tahun",
+                "product_id": "371795074",
+                "price": {
+                    "text_idr": "Rp 90.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/6/26785449/26785449_c74a33b3-1e46-4d21-806c-c726a054d83b_2048_1360.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/12/6/26785449/26785449_c74a33b3-1e46-4d21-806c-c726a054d83b_2048_1360.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/12/6/26785449/26785449_c74a33b3-1e46-4d21-806c-c726a054d83b_2048_1360.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 6,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA BAYI PENDEK FLUFFY (Isi 4Pcs) CSA MOTIF NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-bayi-pendek-fluffy-isi-4pcs-csa-motif-newborn",
+                "product_id": "272764569",
+                "price": {
+                    "text_idr": "Rp 64.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/1/26785449/26785449_9abd0699-75b3-4d32-88a6-6e4703f40097_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/1/26785449/26785449_9abd0699-75b3-4d32-88a6-6e4703f40097_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/1/26785449/26785449_9abd0699-75b3-4d32-88a6-6e4703f40097_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 6,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "SINGLET BAYI LUAR FLUFFY  (ISI 4PCS)  SALUR KKS-SLR S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/singlet-bayi-luar-fluffy-isi-4pcs-salur-kks-slr-s-m-l-3-6-bulan",
+                "product_id": "272638612",
+                "price": {
+                    "text_idr": "Rp 84.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_834bbcdc-a6c7-43e1-9e1b-73f7f876b2a0_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_834bbcdc-a6c7-43e1-9e1b-73f7f876b2a0_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_834bbcdc-a6c7-43e1-9e1b-73f7f876b2a0_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 7,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PANJANG RIB ANAK PUTIH FLUFFY OJX-PTH (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-panjang-rib-anak-putih-fluffy-ojx-pth-isi-4pcs-12-18-bulan-8a93",
+                "product_id": "665225895",
+                "price": {
+                    "text_idr": "Rp 97.200",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_2256fed1-d984-4635-ab1d-79915ce3c403_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_2256fed1-d984-4635-ab1d-79915ce3c403_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_2256fed1-d984-4635-ab1d-79915ce3c403_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "10",
+                    "original_price_fmt": "Rp 108.000",
+                    "start_date": "2020-06-02T11:59:31Z",
+                    "end_date": "2020-06-30T00:00:00Z",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 10,
+                    "rating": 96,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PENDEK RIB WARNA FLUFFY ODX-WRN (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-pendek-rib-warna-fluffy-odx-wrn-isi-4pcs-2-4-tahun",
+                "product_id": "272058670",
+                "price": {
+                    "text_idr": "Rp 101.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_cce08e36-535d-4715-85dc-c877c0608944_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_cce08e36-535d-4715-85dc-c877c0608944_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_cce08e36-535d-4715-85dc-c877c0608944_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 4,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA BAYI PENDEK FLUFFY (Isi 4Pcs) CDA WARNA NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-bayi-pendek-fluffy-isi-4pcs-cda-warna-newborn",
+                "product_id": "272753187",
+                "price": {
+                    "text_idr": "Rp 61.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_99d4e16a-8333-4684-864d-1ca4222680e5_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/28/26785449/26785449_99d4e16a-8333-4684-864d-1ca4222680e5_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/28/26785449/26785449_99d4e16a-8333-4684-864d-1ca4222680e5_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 5,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PANJANG SALUR FLUFFY OJSP-SLR ( Isi 4Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-panjang-salur-fluffy-ojsp-slr-isi-4pcs-3-6-bulan",
+                "product_id": "272405422",
+                "price": {
+                    "text_idr": "Rp 100.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_da39231f-bd49-4676-9510-afd6a80213ef_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_da39231f-bd49-4676-9510-afd6a80213ef_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_da39231f-bd49-4676-9510-afd6a80213ef_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 8,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PANJANG RIB ANAK PUTIH FLUFFY OJX-PTH (Isi 4Pcs)",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-panjang-rib-anak-putih-fluffy-ojx-pth-isi-4pcs-12-18-bulan",
+                "product_id": "271963728",
+                "price": {
+                    "text_idr": "Rp 108.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_2256fed1-d984-4635-ab1d-79915ce3c403_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_2256fed1-d984-4635-ab1d-79915ce3c403_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_2256fed1-d984-4635-ab1d-79915ce3c403_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 5,
+                    "rating": 92,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "BAJU OBLONG PANJANG RIB SALUR FLUFFY OJS-SLR ( Isi 4Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/baju-oblong-panjang-rib-salur-fluffy-ojs-slr-isi-4pcs-3-6-bulan",
+                "product_id": "272421864",
+                "price": {
+                    "text_idr": "Rp 100.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_69498227-47bd-4d9a-b9cc-9a2c3f3825a5_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_69498227-47bd-4d9a-b9cc-9a2c3f3825a5_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_69498227-47bd-4d9a-b9cc-9a2c3f3825a5_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 6,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA TUTUP KAKI BAYI ( Isi 4 Pcs ) FLUFFY CKS-SALUR S/M/L",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-tutup-kaki-bayi-isi-4-pcs-fluffy-cks-salur-s-m-l-9-12-bulan-cb00",
+                "product_id": "272118190",
+                "price": {
+                    "text_idr": "Rp 117.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_b0997a6e-5b8d-489e-a554-32309824c720_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/26/26785449/26785449_b0997a6e-5b8d-489e-a554-32309824c720_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/26/26785449/26785449_b0997a6e-5b8d-489e-a554-32309824c720_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 5,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA PENDEK BAYI FLUFFY (Isi 4Pcs) CDA MOTIF NEWBORN",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-pendek-bayi-fluffy-isi-4pcs-cda-motif-newborn",
+                "product_id": "272753984",
+                "price": {
+                    "text_idr": "Rp 68.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_826174ec-0beb-4621-a948-d66481000a5d_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/5/2/26785449/26785449_826174ec-0beb-4621-a948-d66481000a5d_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/5/2/26785449/26785449_826174ec-0beb-4621-a948-d66481000a5d_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 4,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }, {
+                "name": "CELANA MOMON PUTIH FLUFFY CMS-PTH S/M/L  ( isi 4 Pcs )",
+                "product_url": "https://www.tokopedia.com/fluffy/celana-momon-putih-fluffy-cms-pth-s-m-l-isi-4-pcs-3-6-bulan",
+                "product_id": "272298726",
+                "price": {
+                    "text_idr": "Rp 87.000",
+                    "__typename": "ProductListPrice"
+                },
+                "primary_image": {
+                    "original": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_06184d2b-c140-4b4e-ae8e-eaacce8b5ea7_1000_1000.jpg",
+                    "thumbnail": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/3/27/26785449/26785449_06184d2b-c140-4b4e-ae8e-eaacce8b5ea7_1000_1000.jpg",
+                    "resize300": "https://ecs7-p.tokopedia.net/img/cache/300/product-1/2018/3/27/26785449/26785449_06184d2b-c140-4b4e-ae8e-eaacce8b5ea7_1000_1000.jpg",
+                    "__typename": "ProductListPrimaryImage"
+                },
+                "flags": {
+                    "isSold": false,
+                    "isPreorder": false,
+                    "isWholesale": false,
+                    "isWishlist": false,
+                    "__typename": "ProductListFlagNew"
+                },
+                "campaign": {
+                    "discounted_percentage": "0",
+                    "original_price_fmt": "",
+                    "start_date": "",
+                    "end_date": "",
+                    "__typename": "ProductDetailCampaignType"
+                },
+                "label": [],
+                "badge": [{
+                    "title": "Official Store",
+                    "image_url": "https://ecs7-p.tokopedia.net/img/official_store_badge.png",
+                    "__typename": "ShopBadge"
+                }],
+                "stats": {
+                    "reviewCount": 3,
+                    "rating": 100,
+                    "__typename": "ProductListStats"
+                },
+                "category": {
+                    "id": "0",
+                    "__typename": "ProductListCategory"
+                },
+                "__typename": "ShopProductListDetail"
+            }],
+            "__typename": "ShopProductList"
+        }
+    }
+}]

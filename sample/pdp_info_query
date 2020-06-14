@@ -1,0 +1,169 @@
+[{
+    "data": {
+        "getPDPInfo": {
+            "basic": {
+                "id": 271197708,
+                "shopID": 2925242,
+                "name": "CELANA 3/4 BIS MOTIF FLUFFY 1/2/3 C3XB-MTF ( Isi 4 Pcs ) - 12-18 Bulan",
+                "alias": "celana-3-4-bis-motif-fluffy-1-2-3-c3xb-mtf-isi-4-pcs-12-18-bulan",
+                "price": 97000,
+                "priceCurrency": "IDR",
+                "lastUpdatePrice": "02-06-2020, 11:10 WIB",
+                "description": "CELANA 3/4 BIS MOTIF FLUFFY 1/2/3 C3XB-MTF ( Isi 4 Pcs )\nKODE : C3XB\nCORAK : MOTIF (Motif / Gambar bisa berubah kapan saja sesuai stok yang ada dan akan kami informasikan terlebih dahulu. )\nISI : 4 PCS\n\nFluffy Baby Wear hadir untuk menjawab kebutuhan bayi akan pakaian yang lembut, aman, dan tahan lama. Pakaian bayi Fluffy di desain untuk kenyamanan buah hati anda, baik untuk beraktivitas, maupun beristirahat. Seluruh produk Fluffy Baby Wear memenuhi Standar Nasional Indonesia (SNI) sehingga aman digunakan oleh bayi anda. \n\nFluffy Babys Wear dibuat dari bahan kaos TC yaitu gabungan serat kapas (serat alam) dan sintetis, yang membuat kaos TC mempunyai keunggulan dibandingkan cotton lain, yaitu:\n* Mempunyai handfeel yang lembut\n* Memiliki daya serap air yang baik\n* Pakaian tidak mudah berubah bentuk.\n\nUKURAN FLUFFY BERDASARKAN BERAT BADAN : \n12 - 15 KG = SIZE 1 ( 12- 18 Bulan )\n15 - 18 KG = SIZE 2 ( 18 - 24 Bulan )\n18 - 21 KG = SIZE 3 ( 2 - 4 Tahun )",
+                "minOrder": 1,
+                "maxOrder": 0,
+                "status": "ACTIVE",
+                "weight": 250,
+                "weightUnit": "GRAM",
+                "condition": "NEW",
+                "url": "https://www.tokopedia.com/fluffy/celana-3-4-bis-motif-fluffy-1-2-3-c3xb-mtf-isi-4-pcs-12-18-bulan",
+                "sku": "C3XB-MTF-1",
+                "gtin": "",
+                "isKreasiLokal": false,
+                "isMustInsurance": false,
+                "isEligibleCOD": true,
+                "isLeasing": false,
+                "catalogID": 0,
+                "needPrescription": false,
+                "__typename": "pdpBasicV3"
+            },
+            "category": {
+                "id": "401",
+                "name": "Pakaian Bayi Unisex",
+                "title": "Pakaian Bayi Unisex",
+                "breadcrumbURL": "https://www.tokopedia.com/p/fashion-anak-bayi/baju-sepatu-bayi/pakaian-bayi-unisex",
+                "isAdult": false,
+                "detail": [{
+                    "id": "78",
+                    "name": "Fashion Anak \u0026 Bayi",
+                    "breadcrumbURL": "https://www.tokopedia.com/p/fashion-anak-bayi",
+                    "__typename": "pdpCategoryDetailV3"
+                }, {
+                    "id": "48",
+                    "name": "Baju \u0026 Sepatu Bayi",
+                    "breadcrumbURL": "https://www.tokopedia.com/p/fashion-anak-bayi/baju-sepatu-bayi",
+                    "__typename": "pdpCategoryDetailV3"
+                }, {
+                    "id": "401",
+                    "name": "Pakaian Bayi Unisex",
+                    "breadcrumbURL": "https://www.tokopedia.com/p/fashion-anak-bayi/baju-sepatu-bayi/pakaian-bayi-unisex",
+                    "__typename": "pdpCategoryDetailV3"
+                }],
+                "__typename": "pdpCategoryV3"
+            },
+            "pictures": [{
+                "picID": "584450794",
+                "fileName": "26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                "filePath": "product-1/2018/3/23/26785449",
+                "description": "",
+                "isFromIG": false,
+                "width": 1000,
+                "height": 1000,
+                "urlOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/3/23/26785449/26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                "urlThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/3/23/26785449/26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                "url300": "https://ecs7.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_ddc09c99-b9bd-438d-a112-e00d3a6dcf76_1000_1000.jpg",
+                "status": 2,
+                "__typename": "pdpPictureV3"
+            }, {
+                "picID": "584450795",
+                "fileName": "26785449_da132ad1-3a4f-4aaa-894a-cba08565f5b0_2048_1360.jpg",
+                "filePath": "product-1/2018/2/17/26785449",
+                "description": "",
+                "isFromIG": false,
+                "width": 3216,
+                "height": 2136,
+                "urlOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/2/17/26785449/26785449_da132ad1-3a4f-4aaa-894a-cba08565f5b0_2048_1360.jpg",
+                "urlThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/2/17/26785449/26785449_da132ad1-3a4f-4aaa-894a-cba08565f5b0_2048_1360.jpg",
+                "url300": "https://ecs7.tokopedia.net/img/cache/300/product-1/2018/2/17/26785449/26785449_da132ad1-3a4f-4aaa-894a-cba08565f5b0_2048_1360.jpg",
+                "status": 1,
+                "__typename": "pdpPictureV3"
+            }, {
+                "picID": "584450796",
+                "fileName": "26785449_3523e169-e38a-4d0e-87ef-029d918e8149_640_640.jpg",
+                "filePath": "product-1/2018/3/23/26785449",
+                "description": "",
+                "isFromIG": false,
+                "width": 640,
+                "height": 640,
+                "urlOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/3/23/26785449/26785449_3523e169-e38a-4d0e-87ef-029d918e8149_640_640.jpg",
+                "urlThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/3/23/26785449/26785449_3523e169-e38a-4d0e-87ef-029d918e8149_640_640.jpg",
+                "url300": "https://ecs7.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_3523e169-e38a-4d0e-87ef-029d918e8149_640_640.jpg",
+                "status": 1,
+                "__typename": "pdpPictureV3"
+            }, {
+                "picID": "584450797",
+                "fileName": "26785449_d3350855-b6a9-48a4-b4f5-aa04d9e66c05_1080_1080.jpg",
+                "filePath": "product-1/2018/3/23/26785449",
+                "description": "",
+                "isFromIG": false,
+                "width": 1080,
+                "height": 1080,
+                "urlOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/3/23/26785449/26785449_d3350855-b6a9-48a4-b4f5-aa04d9e66c05_1080_1080.jpg",
+                "urlThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/3/23/26785449/26785449_d3350855-b6a9-48a4-b4f5-aa04d9e66c05_1080_1080.jpg",
+                "url300": "https://ecs7.tokopedia.net/img/cache/300/product-1/2018/3/23/26785449/26785449_d3350855-b6a9-48a4-b4f5-aa04d9e66c05_1080_1080.jpg",
+                "status": 1,
+                "__typename": "pdpPictureV3"
+            }],
+            "preorder": {
+                "isActive": false,
+                "duration": 0,
+                "timeUnit": "UNKNOWN",
+                "__typename": "pdpPreorderV3"
+            },
+            "wholesale": [],
+            "videos": [],
+            "campaign": {
+                "campaignID": "-10000",
+                "campaignType": 0,
+                "campaignTypeName": "SlashPrice",
+                "originalPrice": 97000,
+                "discountedPrice": 87300,
+                "isAppsOnly": false,
+                "isActive": true,
+                "percentageAmount": 10,
+                "stock": 2,
+                "originalStock": 0,
+                "startDate": "2020-06-02T12:11:04Z",
+                "endDate": "2020-06-30T00:00:00Z",
+                "endDateUnix": 1593450000,
+                "appLinks": "",
+                "hideGimmick": false,
+                "__typename": "pdpCampaignV3"
+            },
+            "stats": {
+                "countView": 3764,
+                "countReview": 15,
+                "countTalk": 11,
+                "rating": 98,
+                "__typename": "pdpStatsV3"
+            },
+            "txStats": {
+                "txSuccess": 45,
+                "txReject": 0,
+                "itemSold": 51,
+                "__typename": "pdpTxStatsV3"
+            },
+            "cashback": {
+                "percentage": 0,
+                "__typename": "pdpCashbackV3"
+            },
+            "variant": {
+                "parentID": "260980376",
+                "isVariant": true,
+                "__typename": "pdpVariant"
+            },
+            "stock": {
+                "useStock": true,
+                "value": 2,
+                "stockWording": "Stok \u003cb style='color:red'\u003etersisa \u0026lt;5,\u003c/b\u003e beli segera!",
+                "__typename": "pdpStockV3"
+            },
+            "menu": {
+                "name": "CELANA 1/2/3",
+                "__typename": "pdpMenuV3"
+            },
+            "__typename": "pdpInfo"
+        }
+    }
+}]
+
