@@ -24,15 +24,22 @@ else
   redis.set(shop_products_key, shop_products.to_json)
 end
 
+products = []
+shop_products[0]['data']['GetShopProduct']['data'].each do |product|
+  products << product['product_url']
+end
+
+products = products.to_set
+
 require "csv"
 CSV.open("tokopedia_fluffy.csv", "w", :headers => %w(kode corak name pcs itemSold pcsSold countView rating countReview url), :write_headers => true) do |table|
-  shop_products[0]['data']['GetShopProduct']['data'].each do |product|
-    pdp_info_key = product['product_url']
+  products.each do |product_url|
+    pdp_info_key = product_url
     pdp_info = redis.get(pdp_info_key)
     if pdp_info
       pdp_info = JSON.parse(pdp_info)
     else
-      product_url_splitted = product['product_url'].split '/'
+      product_url_splitted = product_url.split '/'
       product_key = product_url_splitted.last
       pdp_info = Services::Tokopedia.pdp_info_query(shop_domain, product_key)
       redis.set(pdp_info_key, pdp_info.to_json)
