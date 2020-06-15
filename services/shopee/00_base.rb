@@ -1,6 +1,7 @@
 require 'net/http'
 require 'uri'
 require 'json'
+require 'redis'
 
 module Services
   module Shopee
@@ -17,6 +18,7 @@ module Services
           "X-Api-Source": "pc",
           "X-Shopee-Language": "id",
         }
+        @redis = Redis.new
       end
 
       def prepare_uri
@@ -25,19 +27,25 @@ module Services
 
       def call
         @uri = prepare_uri
-        @request = Net::HTTP::Get.new(@uri)
-        @request_items.keys.each do |request_item_key|
-          @request[request_item_key] = @request_items[request_item_key]
-        end
-        req_options = {
-          use_ssl: @uri.scheme == "https",
-        }
+        body = @redis.get @uri.to_s
+        if body
+          @request = Net::HTTP::Get.new(@uri)
+          @request_items.keys.each do |request_item_key|
+            @request[request_item_key] = @request_items[request_item_key]
+          end
+          req_options = {
+            use_ssl: @uri.scheme == "https",
+          }
 
-        response = Net::HTTP.start(@uri.hostname, @uri.port, req_options) do |http|
-          http.request(@request)
+          response = Net::HTTP.start(@uri.hostname, @uri.port, req_options) do |http|
+            http.request(@request)
+          end
+
+          body = response&.body
+          @redis.set @uri.to_s, body
         end
 
-        JSON.parse(response.body) rescue nil
+        JSON.parse(body) rescue nil
       end
     end
   end
