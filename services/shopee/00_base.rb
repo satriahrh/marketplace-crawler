@@ -27,8 +27,9 @@ module Services
 
       def call
         @uri = prepare_uri
-        body = @redis.get @uri.to_s
-        if body
+        body = @redis&.get @uri.to_s
+        if body.nil?
+          puts "requesting #{@uri}"
           @request = Net::HTTP::Get.new(@uri)
           @request_items.keys.each do |request_item_key|
             @request[request_item_key] = @request_items[request_item_key]
