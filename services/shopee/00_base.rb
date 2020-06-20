@@ -46,7 +46,13 @@ module Services
           @redis.set @uri.to_s, body
         end
 
-        JSON.parse(body) rescue nil
+        begin
+          json_parse = JSON.parse(body)
+        rescue
+          puts body
+          json_parse = nil
+        end
+        json_parse
       end
     end
   end
